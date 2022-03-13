@@ -35,4 +35,6 @@
 Added to create merge conflicty with Mohit2
 =-====-=-=-=-=-=-=-=-=-=-=-=-=-=-
 
+Now creating conflict in Mohit1 then merge with Mohit3
+====================================
 

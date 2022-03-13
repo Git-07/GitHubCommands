@@ -16,9 +16,15 @@
 3/13 ->> 5:48 Let see if it crweates the merge conflict when Mohit3 will pick this
 ===============
 
+<<<<<<< HEAD
 3/13 :  Let me change into this before merging with Mohit3
 
 ====================================
+=======
+Added to create merge conflicty with Mohit2
+=-====-=-=-=-=-=-=-=-=-=-=-=-=-=-
+
+>>>>>>> Mohit3
 
 Added the changes before merge with Mohit3
 

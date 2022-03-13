@@ -1,1 +1,31 @@
-1.In the master branch added First
+
+3/13 -> 5:23 -->> Added in Mohit1  branch to create merge conflicts when it will be merged to Mohit2
+
+
+=========================
+=======
+3/13 -> 5:22 -->> Added in Mohit2  branch
+
+=============================
+
+
+3/13 -> 5:28 -->> Added in Mohit2  branch to create merged conflict
+
+=============================
+=======
+3/13 ->> 5:48 Let see if it crweates the merge conflict when Mohit3 will pick this
+===============
+
+<<<<<<< HEAD
+3/13 :  Let me change into this before merging with Mohit3
+
+====================================
+=======
+Added to create merge conflicty with Mohit2
+=-====-=-=-=-=-=-=-=-=-=-=-=-=-=-
+
+>>>>>>> Mohit3
+
+Added the changes before merge with Mohit3
+
+========================
